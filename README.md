@@ -1,5 +1,5 @@
 ## Hi there 👋
-##no se que se hace pero me veo genial haciendolo
+## no se que se hace pero me veo genial haciendolo
 <!--
 **Fernandomastre32/Fernandomastre32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
